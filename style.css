@@ -1,0 +1,47 @@
+.jumbotron{
+    width:600px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.jumbotron h3{ 
+    margin-top: 0;
+    padding-bottom: 10px;
+    color: #fff;
+    background-color: #acacac;
+    border-radius:5px;
+    text-align: center;
+    height:30px;
+    line-height: 30px;
+}
+.table{
+    margin-top:15px;
+}
+.form-control{
+    margin-bottom: 10px;
+}
+.selecionado{
+    background-color: rgba(6, 250, 39, 0.356);
+}
+.negrito{
+    font-weight: bold;
+}
+.dir-alerta{
+    background-color: #f2dede;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.dir-alerta-title{
+    color:#af4341;
+    font-weight: bold;
+    font-size: 20px ;
+
+}
+.dir-alerta-mensagem{
+    color: #af4341;
+}
